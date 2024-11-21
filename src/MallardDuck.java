@@ -21,3 +21,4 @@ public class MallardDuck extends Duck implements Flyable, Quackable,Reproducing 
         System.out.println("Mallard Duck reproducing!");
     }
 }
+
