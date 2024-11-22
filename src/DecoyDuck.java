@@ -4,4 +4,3 @@ public class DecoyDuck extends Duck {
         System.out.println("I am a Decoy Duck");
     }
 }
-
